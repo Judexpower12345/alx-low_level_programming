@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
-* main - Lanzador.
-*
-* Return: Always 0.
-*/
+ * main - Print all base 16 numbers in lowercases.
+ *
+ * Return: Always 0.
+ *
+ */
 
 int main(void)
 {

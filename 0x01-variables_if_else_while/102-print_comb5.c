@@ -1,10 +1,19 @@
 #include <stdio.h>
 #include <unistd.h>
+
 /**
- * main - Entry point
- * Description: prints all possible combination of 2-digit numbers
+ * main - Main block
+ * prints all possible combination of 2-digit numbers
+ * The numbers should range from 0 to 99
+ * The two numbers should be separated by a space
+ * All numbers should be printed with 2 digits.
+ * 1 should be printed as 01
+ * The combinations of numbers should be printed in ascending order
+ *
  * Return: Always 0 (success)
+ *
  */
+
 int main(void)
 {
 	int c, i, k, j;

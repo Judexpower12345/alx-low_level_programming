@@ -1,18 +1,19 @@
 #include "main.h"
 
 /**
- * _abs - checks numbers.
- * @r: the aregument passed when the function _abs is called.
- * Return: returns positive is the arguments is a positive number.
+ * _abs - compute the absolute value of an integer
+ * @n: int type number
+ * Return: absolute value of @n
  */
-int _abs(int r)
+
+int _abs(int n)
 {
-	if (r >= 0)
+	if (n < 0)
 	{
-		return (r);
+		return (n * -1);
 	}
 	else
 	{
-		return (-r);
+	return (n);
 	}
 }

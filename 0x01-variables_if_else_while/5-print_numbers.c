@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-* main - Lanzador.
-*
-* Return: Always 0.
-*/
+ * main - Print single digit number of base 10
+ *
+ * Return: Always 0.
+ */
 
 int main(void)
 {

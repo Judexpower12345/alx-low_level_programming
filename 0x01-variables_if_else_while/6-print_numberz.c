@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
-* main - Lanzador.
-*
-* Return: Always 0.
-*/
+ * main - Print all single digit numbers.
+ *
+ * Return: Always 0.
+ *
+ */
 
 int main(void)
 {

@@ -1,1 +1,1 @@
-This folder has to do with debugging
+0x03. C Debugging Project

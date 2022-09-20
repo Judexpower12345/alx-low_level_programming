@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-* main - Lanzador.
-*
-* Return: Always 0.
-*/
+ * main - Print all the letters except
+ * use only putchar function
+ * Return: Always 0.
+ */
 
 int main(void)
 {
@@ -13,6 +13,7 @@ int main(void)
 	for (a = 'a'; a <= 'z'; a++)
 	{
 		if ((a != 'e') && (a != 'q'))
+
 		{
 			putchar(a);
 		}
@@ -20,4 +21,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-

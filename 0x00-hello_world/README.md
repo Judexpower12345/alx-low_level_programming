@@ -1,1 +1,1 @@
-This is the readme for c first task
+0x00. C - Hello, World Projects

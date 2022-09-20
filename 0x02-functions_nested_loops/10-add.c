@@ -1,14 +1,18 @@
 #include "main.h"
 
 /**
- * add - this finction sum up two numbers.
- * @i: argument 1 that is passed when the function add is called.
- * @l: argument 2 that is passed when the function add is called.
- * Return: returns the total sum.
+ * add - Function that adds 2 integers
+ * @a: First operand
+ * @b: Second operand
+ *
+ * Return: the sum of the 2 operands
  */
-int add(int i, int l)
+
+int add(int a, int b)
 {
-	int n;
-	 n = i + l;
-	return (n);
+	int sum;
+
+	sum = a + b;
+
+	return (sum);
 }
