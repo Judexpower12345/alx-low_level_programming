@@ -1,1 +1,1 @@
-0x02. C Functions, nested loops project
+This directory is abuut nested loops on ALX SE low level programming

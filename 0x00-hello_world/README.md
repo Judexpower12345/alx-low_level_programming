@@ -1,1 +1,1 @@
-0x00. C - Hello, World Projects
+This is the first C project Hello world

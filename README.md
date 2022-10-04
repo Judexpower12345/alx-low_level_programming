@@ -1,1 +1,1 @@
-This is the first read me for c programming
+This is the course for the C programing in ALX SE 12 months programme.

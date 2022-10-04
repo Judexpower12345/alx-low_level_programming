@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - Alphabet
- *
- * Return: Always 0.
- *
- */
+* main - Lanzador.
+*
+* Return: Always 0.
+*/
 
 int main(void)
 {
